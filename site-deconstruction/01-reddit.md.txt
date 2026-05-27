@@ -1,0 +1,592 @@
+1. Status Bar
+What it is
+
+The very top strip of the phone screen controlled by the operating system (Android/iPhone).
+
+What it shows
+Time
+Battery
+Wi-Fi
+Mobile signal
+Notifications
+Why it matters in UI design
+
+Designers must leave space for it so app content doesn't overlap.
+
+Real-life analogy
+
+Like the dashboard indicators in a car.
+
+2. Header / Top Navigation Bar
+What it is
+
+The top section inside an app used for navigation and important actions.
+
+Usually contains
+Logo
+Back button
+Search
+Profile icon
+Menu button
+Purpose
+
+Helps users know:
+
+Where they are
+How to go back
+How to access features
+Example
+
+Reddit's top bar with:
+
+Reddit logo
+Search icon
+Notification bell
+3. Navigation
+What it means
+
+The system that helps users move around an app or website.
+
+Examples
+Menus
+Tabs
+Back buttons
+Sidebars
+Bottom navigation
+Goal
+
+Prevent users from getting lost.
+
+Analogy
+
+Like roads and signs in a city.
+
+4. Hamburger Menu
+What it is
+
+The icon with 3 horizontal lines.
+
+☰
+
+Purpose
+
+Opens hidden navigation links or options.
+
+Why called hamburger?
+
+Because the three lines look like burger layers.
+
+Common on
+Mobile apps
+Small screens
+5. Logo
+What it is
+
+The brand symbol or name.
+
+Purpose
+Identity
+Recognition
+Trust
+Example
+
+The Reddit alien logo.
+
+6. Action Button
+What it is
+
+A button that performs an action.
+
+Examples
+Like
+Share
+Search
+Send
+Add
+In UI design
+
+Action buttons should be:
+
+Easy to see
+Easy to tap
+Clear in meaning
+7. Icon
+What it is
+
+A small graphic symbol representing an action or object.
+
+Examples
+
+🔍 = Search
+🔔 = Notifications
+✉️ = Messages
+
+Why important
+
+Icons save space and speed up understanding.
+
+8. Content Area
+What it is
+
+The main area where actual information appears.
+
+Examples
+Posts
+Messages
+Videos
+Images
+Comments
+Purpose
+
+This is the “main thing” users came to see.
+
+9. Feed
+What it is
+
+A scrolling list of content.
+
+Examples
+Instagram posts
+Reddit posts
+YouTube recommendations
+Characteristics
+Vertical scrolling
+Repeating content blocks
+10. Scrollable Area
+What it means
+
+An area users can move through by swiping or scrolling.
+
+Why needed
+
+Phone screens are small but content is large.
+
+11. Container
+What it is
+
+A box or section that holds UI elements together.
+
+Example
+
+A Reddit post card contains:
+
+Username
+Post text
+Buttons
+Analogy
+
+Like a folder holding related papers.
+
+12. Card UI
+What it is
+
+A content block shown like a separate card.
+
+Used for
+Posts
+Products
+Videos
+News articles
+Characteristics
+Rounded corners
+Padding
+Shadow or separation
+13. Layout
+What it means
+
+How UI elements are arranged on screen.
+
+Examples
+Horizontal layout
+Vertical layout
+Grid layout
+Purpose
+
+Makes content organized and readable.
+
+14. Horizontal Layout
+What it is
+
+Items arranged side by side.
+
+Example:
+
+[Icon] [Username] [Time]
+15. Vertical Layout
+What it is
+
+Items stacked top to bottom.
+
+Example:
+
+Title
+Description
+Button
+16. Flex Layout / Flexbox
+What it is
+
+A modern system for arranging elements automatically.
+
+Helps with
+Alignment
+Spacing
+Responsive design
+Example
+
+Icons spreading evenly in a toolbar.
+
+17. Responsive Design
+What it means
+
+The UI changes intelligently for different screen sizes.
+
+Example
+
+Mobile:
+
+Single column
+
+Desktop:
+
+Sidebar + wider layout
+Goal
+
+Make apps usable everywhere.
+
+18. Sidebar
+What it is
+
+A vertical panel on the side of the screen.
+
+Often contains
+Navigation
+Categories
+Recommendations
+Common on
+
+Desktop websites.
+
+19. Toolbar
+What it is
+
+A strip containing tools or actions.
+
+Example
+
+Bottom message bar with:
+
+Emoji button
+Send button
+Attachment button
+20. Input Field
+What it is
+
+A place where users type information.
+
+Examples
+Search box
+Chat message box
+Login form
+21. Search Bar
+What it is
+
+A special input field for searching content.
+
+Usually includes
+Magnifying glass icon
+Placeholder text
+22. Placeholder Text
+What it is
+
+Temporary hint text inside inputs.
+
+Example
+
+“Search comments…”
+
+Purpose
+
+Tells users what to type.
+
+23. Avatar
+What it is
+
+A small profile image representing a user.
+
+Purpose
+
+Helps identify users visually.
+
+24. Badge
+What it is
+
+A small label or indicator.
+
+Examples
+Admin badge
+Verified badge
+Online indicator
+Purpose
+
+Shows status or importance.
+
+25. Timestamp
+What it is
+
+Shows when something happened.
+
+Examples
+“3h ago”
+“Yesterday”
+“11:05 PM”
+26. Interaction Bar
+What it is
+
+The row of buttons used to interact with content.
+
+Examples
+Upvote
+Comment
+Share
+Save
+27. Upvote / Like Button
+What it is
+
+A button showing approval or interest.
+
+Purpose
+
+User engagement and ranking.
+
+28. Comment Section
+What it is
+
+Area where users discuss content.
+
+Usually contains
+Usernames
+Replies
+Nested discussions
+29. Nested Reply
+What it means
+
+A reply inside another reply.
+
+Visual clue
+
+Indented layout.
+
+Example:
+
+Comment
+   ↳ Reply
+       ↳ Reply to reply
+30. Floating Action Button (FAB)
+What it is
+
+A button floating above content.
+
+Usually circular.
+Purpose
+
+Highlights an important action.
+
+Examples
+Compose message
+Scroll down
+Add post
+31. Overlay
+What it is
+
+A UI element displayed above other content.
+
+Examples
+Popup
+Floating button
+Modal
+32. Modal / Popup
+What it is
+
+A temporary window appearing above the app.
+
+Purpose
+
+Get attention or ask for action.
+
+33. Tab
+What it is
+
+A selectable section switcher.
+
+Example
+All
+Live
+Messages
+Requests
+Purpose
+
+Organize content categories.
+
+34. Filter
+What it is
+
+A tool to narrow down content.
+
+Example
+
+Sorting comments by:
+
+Best
+New
+Top
+35. Notification Indicator
+What it is
+
+A small dot or number showing updates.
+
+Example
+
+Red dot with “3”.
+
+36. Typography
+What it means
+
+The style of text.
+
+Includes
+Font
+Size
+Weight
+Spacing
+Why important
+
+Controls readability and hierarchy.
+
+37. Visual Hierarchy
+What it is
+
+Using design to show what is most important.
+
+Methods
+Bigger text
+Bold text
+Color contrast
+Position
+Example
+
+Post titles are larger than timestamps.
+
+38. White Space / Spacing
+What it is
+
+Empty space between elements.
+
+Purpose
+
+Improves readability and reduces clutter.
+
+39. Padding
+What it is
+
+Space inside a container.
+
+Example:
+
+[ text ]
+
+The space between border and text = padding.
+
+40. Margin
+What it is
+
+Space outside an element.
+
+Difference
+Padding = inner space
+Margin = outer space
+41. Alignment
+What it means
+
+How elements line up.
+
+Types
+Left aligned
+Center aligned
+Right aligned
+42. Grid Layout
+What it is
+
+Content arranged in rows and columns.
+
+Example
+
+Pinterest or gallery layouts.
+
+43. Theme
+What it is
+
+The overall visual style.
+
+Examples
+Dark mode
+Light mode
+44. Dark Mode
+What it is
+
+A dark-colored UI theme.
+
+Benefits
+Less eye strain
+Battery saving on OLED screens
+45. UI Component
+What it is
+
+A reusable building block in a UI.
+
+Examples
+Buttons
+Cards
+Inputs
+Navigation bars
+46. Component Library
+What it is
+
+A collection of reusable UI components.
+
+Purpose
+
+Keeps design consistent.
+
+47. User Flow
+What it means
+
+The path users follow to complete tasks.
+
+Example
+
+Open app → Search → Open post → Comment
+
+48. UX (User Experience)
+What it means
+
+How users feel while using the app.
+
+Good UX feels:
+Easy
+Fast
+Clear
+Comfortable
+49. UI (User Interface)
+What it means
+
+The actual visual part users interact with.
+
+Includes
+Colors
+Buttons
+Layouts
+Text
+Icons
+Simple Way to Remember
+UI = How it looks
+UX = How it feels
